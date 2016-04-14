@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 intent.setComponent(new ComponentName(MainActivity.this,CardActivity.class));
                 startActivity(intent);
                 break;case R.id.but5:
-                intent.setComponent(new ComponentName(MainActivity.this,ScrollActivity.class));
+                intent.setComponent(new ComponentName(MainActivity.this,StagActivity.class));
                 startActivity(intent);
                 break;
             case R.id.but6:

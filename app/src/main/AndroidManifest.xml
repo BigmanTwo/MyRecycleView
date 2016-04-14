@@ -24,6 +24,9 @@
         <activity android:name=".HorizontalActivity">
 
         </activity>
+        <activity android:name=".StagActivity">
+
+        </activity>
     </application>
 
 </manifest>
